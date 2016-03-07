@@ -2,7 +2,7 @@
 
  __SWAP__
  * **[Prácticas](https://github.com/antoniovj1/servidores_web_altas_prestaciones_ugr/tree/master//practicas)**
- * **[Ejercicios](https://github.com/antoniovj1/servidores_web_altas_prestaciones_ugr/tree/master//ejercicios)**
+ * **[Trabajos de Clase](https://github.com/antoniovj1/servidores_web_altas_prestaciones_ugr/tree/master//trabajos_de_clase)**
 
 ___
 ###### Universidad de Granada (UGR)
