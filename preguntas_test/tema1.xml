@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>Una granja web es:</enunciado>
+  <opcionA>un conjunto de servidores dedicados a servir contenido web a los usuarios finales.</opcionA>
+  <opcionB>una configuración de red que permite que los servidores sirvan contenido web.</opcionB>
+  <opcionC>un solo servidor dedicado a servir contenido web a los usuarios finales.</opcionC>
+  <opcionD>Todas las anteriores.</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Cuando queremos actualizar o introducir una nueva aplicación en nuestro sistema debemos:</enunciado>
+  <opcionA>actualizar o introducir la aplicación directamente y esperar que no pase nada.</opcionA>
+  <opcionB>probarla en un servidor secundario.</opcionB>
+  <opcionC>probarla en la servidor de producción cuando haya poco tráfico.</opcionC>
+  <opcionD>no debemos actualizar ni introducir aplicaciones nuevas en nuestro sistema.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
