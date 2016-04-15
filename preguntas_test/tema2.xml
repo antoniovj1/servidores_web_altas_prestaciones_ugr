@@ -1,0 +1,27 @@
+<pregunta>
+  <enunciado>El tiempo de no disponibilidad debe ser:</enunciado>
+  <opcionA>lo más largo posible.</opcionA>
+  <opcionB>programado y lo más corto posible.</opcionB>
+  <opcionC>no progrmado y lo más corto posible.</opcionC>
+  <opcionD>Todas son falsas.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Cuando un componente se replica, la disponibilidad:</enunciado>
+  <opcionA>se mantiene igual, ya que replicar componentes no afecta en nada.</opcionA>
+  <opcionB>dependendiendo del componente, la disponibilidad puede aumentar o disminuir.</opcionB>
+  <opcionC>aumenta la disponibilidad.</opcionC>
+  <opcionD>se reduce la disponibilidad.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+
+<pregunta>
+  <enunciado>La escalabilidad vertical consiste en:</enunciado>
+  <opcionA>añadir maquinas a algun subsitema.</opcionA>
+  <opcionB>evitar que el sistema atienda demasiadas peticiones.</opcionB>
+  <opcionC>cambiar el servidor por uno más potente.</opcionC>
+  <opcionD>Todas son verdaderas.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
