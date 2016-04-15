@@ -1,0 +1,8 @@
+<pregunta>
+  <enunciado>El balanceo por DNS no es recomendable:</enunciado>
+  <opcionA>porque es muy complejo de configurar.</opcionA>
+  <opcionB>porque el DNS no tiene información sobre la disponibilidad de cada máquina servidora final.</opcionB>
+  <opcionC>si es recomendable, los servidores DNS están diseñados para el balanceo de carga.</opcionC>
+  <opcionD>porque es imposible realizar la tarea del balanceo de carga con un DNS.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
