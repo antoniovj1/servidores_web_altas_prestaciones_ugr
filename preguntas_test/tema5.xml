@@ -1,0 +1,8 @@
+<pregunta>
+  <enunciado>Para el tráfico UPD el número de peticiones concurrentes no es un factor que afecte, ya que:</enunciado>
+  <opcionA>es un protocolo con conexión.</opcionA>
+  <opcionB>la conexión consta de tres pasos.</opcionB>
+  <opcionC>es un protocolo sin conexión.</opcionC>
+  <opcionD>UDP informa sobre el estado de la conexión.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
