@@ -5,6 +5,7 @@
  * **[Práctica 3](https://github.com/antoniovj1/servidores_web_altas_prestaciones_ugr/tree/master/practicas/practica3)**
  * **[Práctica 4](https://github.com/antoniovj1/servidores_web_altas_prestaciones_ugr/tree/master/practicas/practica4)**
  * **[Práctica 5](https://github.com/antoniovj1/servidores_web_altas_prestaciones_ugr/tree/master/practicas/practica5)**
+ * **[Práctica 6](https://github.com/antoniovj1/servidores_web_altas_prestaciones_ugr/tree/master/practicas/practica6)**
 
 ___
 ###### Universidad de Granada (UGR)
